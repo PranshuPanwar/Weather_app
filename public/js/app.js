@@ -1,4 +1,4 @@
-console.log('client side javascript file been loaded finely');
+
 
 
 
